@@ -1,9 +1,4 @@
-<head>
-    <!-- charset and title -->
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Kontakt</title>
-</head>
-
+<html>
 <body>
 <h2>Privacy Policy</h2>
 <p>Ictsystem, a.s. built the erpDROID app as a commercial app. This SERVICE is provided by
@@ -89,3 +84,4 @@
                                               target="_blank">privacypolicytemplate.net</a>.</p>
 
 </body>
+</html>
